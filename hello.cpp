@@ -10,4 +10,5 @@ int main()
 void msg()
 {
   cout<<"Good Morning...!!";
+  cout<<"bye.....!!";
 }
